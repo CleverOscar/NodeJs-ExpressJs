@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/CleverOscar/NodeJs-ExpressJs/issues"
   },
-  "homepage": "https://github.com/CleverOscar/NodeJs-ExpressJs#readme"
+  "homepage": "https://github.com/CleverOscar/NodeJs-ExpressJs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
