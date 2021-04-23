@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-expressjs",
+  "description": "Testing ExpressJs Modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CleverOscar/NodeJs-ExpressJs.git"
+  },
+  "keywords": [
+    "back-end"
+  ],
+  "author": "oscar ortiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CleverOscar/NodeJs-ExpressJs/issues"
+  },
+  "homepage": "https://github.com/CleverOscar/NodeJs-ExpressJs#readme"
+}
